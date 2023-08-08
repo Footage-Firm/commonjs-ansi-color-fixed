@@ -1,5 +1,5 @@
 {
-    "name": "ansi-color",
+    "name": "ansi-color-fixed",
     "version": "0.2.1",
     "description": "This module provides basic ANSI color code support, to allow you to format your console output with foreground and background colors as well as providing bold, italic and underline support.",
     "author": "James Smith <james@loopj.com>",
